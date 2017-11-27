@@ -26,7 +26,7 @@
         <!-- WHITELIST * WHITELIST * WHITELIST -->
         <!-- https://github.com/jessemonroy650/top-phonegap-mistakes/blob/master/the-whitelist-system.md -->
         <allow-navigation href="http://cordova.apache.org/" />
-        <allow-navigation href="http://10.117.147.32:8080/" />
+        <allow-navigation href="http://www.walmart.com/" />
         <allow-navigation href="https://slack.cordova.io" />
         <allow-navigation href="http://www.google-analytics.com/" />
         <allow-navigation href="https://*.imgur.com/" />
